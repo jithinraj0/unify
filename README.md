@@ -3,13 +3,13 @@
 # unify-brainstorm
  Unify is a mobile application designed and developed for connecting International students in Canada. This app has the provision to add posts on jobs,accomodation,ride share, travel partners and every other student needs.
 
-## Author : Jithin raj
+## Author : Jithin Raj
 ## Date : September 23rd, 2021
 
 This is where all the planning and design for my Unify app can be found. 
 
 
-![Brainstorming](./images/miro_board.jpeg)
+![Brainstorming](./images/miro-board-latest.jpeg)
 
 
 ## Intro
